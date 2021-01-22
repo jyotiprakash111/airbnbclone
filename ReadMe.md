@@ -1,0 +1,1 @@
+Source = https://github.com/imandyie/react-native-airbnb-clone
