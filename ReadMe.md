@@ -1,1 +1,2 @@
-Source = https://github.com/imandyie/react-native-airbnb-clone
+# npm i
+To Run the repo
